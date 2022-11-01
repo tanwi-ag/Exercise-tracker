@@ -1,6 +1,9 @@
 {
   "name": "my-exercise-tracker",
   "version": "0.1.0",
+  "engines" : {
+  "node" : "16.13.2"
+  },
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
